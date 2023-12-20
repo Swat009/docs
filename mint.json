@@ -3,13 +3,14 @@
   "name": "WhatBuilds",
   "logo": {
     "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "light": "/logo/light.svg",
+    "href": "https://whatbuilds.com"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#6C78EE",
+    "light": "#6C78EE",
+    "dark": "#6C78EE",
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
@@ -18,7 +19,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:swatantra@whatbuilds.com"
     }
   ],
   "topbarCtaButton": {
@@ -54,12 +55,12 @@
       "pages": ["introduction", "quickstart", "development"]
     },
     {
-      "group": "Essentials",
+      "group": "Connect Data",
       "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
     },
     {
-      "group": "API Documentation",
-      "pages": ["api-reference/introduction"]
+      "group": "Build Apps",
+      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
     },
     {
       "group": "Endpoint Examples",
@@ -72,7 +73,7 @@
   ],
   "footerSocials": {
     "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "github": "https://github.com/whatbuilds",
+    "linkedin": "https://www.linkedin.com/company/whatbuilds"
   }
 }
